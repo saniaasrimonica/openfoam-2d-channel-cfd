@@ -1,0 +1,7 @@
+# OpenFOAM generated files
+case/constant/polyMesh/
+case/[1-9]*/
+case/[0-9]*/
+case/postProcessing/
+case/*.foam
+case/log.*
